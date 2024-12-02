@@ -1,102 +1,91 @@
-# 🍽️ Food App With Compose 📲
+# Stylek - Virtual Try-On Shopping App  
 
-Proud to present **Flavour Haven**! This project is a food ordering app designed with two interfaces - one for the user to browse, order, and review foods, and another for admins to manage the app’s content and track analytics.
-
----
-
-## 🌟 User Side Features
-1. 🔢 **Categorized Foods**:
-    - Browse meals by category like meat, chicken, pizza, desserts, and more.
-
-3. 💖 **Save Favorites**:
-   - Save foods you love for easy access.
-
-4. 🧑‍🍳 **Top 5 Recommendations**:
-   - Check out the most popular foods.
-
-5. 🔍 **Food Search**:
-   - Easily search for specific items.
-
-6. 📊 **Detailed Food Info**:
-   - Price, calories, protein, fat, and more.
-
-7. ⭐ **Ratings & Reviews**:
-   - Rate and review your favorite dishes.
-
-8. 🛒 **Cart**:
-   - Track your orders with a clear cart display.
-
-9. 👤 **User Profile**:
-   - Manage your account, view past orders, and update profile details.
-
-10. 📍 **Location Display**:
-   - View and manage location settings.
-
----
-  
-## 👨‍💼 Admin Side Features
-1. 📋 **Full Control**:
-   - Admins can add, edit, or delete foods and categories.
-
-2. 📊 **Analytics Dashboard**:
-   - Insightful charts for user ratings, reviews, and order trends.
-
-3. ✅ **Order Management**:
-   - View and manage user orders.
-
-4. 👥 **Staff Overview**:
-   - See staff details for better coordination.
+**Stylek** revolutionizes online shopping by providing personalized avatars for virtual try-ons and a virtual wardrobe for effortless outfit coordination.  
 
 ---
 
-## 🔧 Technical Features
-1. 📱 **Android Development**:
-   - Built with Kotlin and Jetpack Compose for a smooth, responsive UI.
-   - Supports modern Android UI design practices with declarative components.
-
-2. 📦 **Room Database**:
-   - Efficient local storage solution for managing data offline.
-   - Provides seamless integration with Kotlin Coroutines for asynchronous tasks.
-
-3. 🔑 **Firebase Auth**:
-   - Secure user authentication for login and registration.
-   - Supports email/password and social media login methods.
-
-4. 🔥 **Firebase Firestore & Storage**:
-   - Real-time backend database for storing and syncing app data.
-   - Provides media management for images, documents, and other files.
-
-5. 🏛 **MVVM Architecture**:
-   - Separates business logic from UI for a cleaner code structure.
-   - Ensures testable, maintainable, and modular app components.
-
-6. 🧩 **Koin Dependency Injection**:
-   - Simplifies dependency management with minimal boilerplate code.
-   - Allows easy testing and scalability by managing object lifecycles.
-
-7. 🛠 **Kotlin Coroutines**:
-   - Manages background tasks to ensure smooth, non-blocking UI interactions.
-   - Uses CoroutineScope for lifecycle-aware background operations.
-
-8. 🌐 **Navigation**:
-   - Provides seamless navigation between different screens and features.
-   - Supports passing data between screens with type safety.
-
+## Table of Contents  
+2. [Business Model Canvas](https://drive.google.com/file/d/1Lle_gWx-rpXFnRkfVtwPnZKENC2CaCb5/view?usp=drive_link)  
+3. [Presentation](https://drive.google.com/file/d/<YOUR_FILE_ID>/view)  
+4. [Video Explanation](https://drive.google.com/file/d/<YOUR_FILE_ID>/view)  
+5. [How to Use](https://drive.google.com/file/d/<YOUR_FILE_ID>/view)  
+   
 ---
-  
-## 📲 Setup Instructions
-1. Clone this repository: `(https://github.com/ahmedemad55/FoodKitApp/tree/master)`
-2. Configure Firebase by adding your `google-services.json` file.
-3. Build and run the app using Android Studio.
+
+## Introduction  
+Stylek simplifies online shopping by addressing common challenges such as:  
+- Accurate size estimation.  
+- Seamless outfit coordination.  
+- Reducing product return rates.  
+
+With innovative technology, Stylek provides a personalized and immersive shopping experience.  
 
 ---
 
-## ✨ Future Improvements
-- Notifications for order updates and promotions.
-- Discount codes for special offers.
-- Enhanced customization options.
+## Business Model Canvas  
+Our business model focuses on delivering value to users and generating revenue through innovative services.  
+- **Value Propositions**: Personalized virtual avatars, accurate fit prediction, and a virtual wardrobe.  
+- **Customer Segments**: Online shoppers, fashion enthusiasts, e-commerce platforms.  
+- **Revenue Streams**: Subscription fees, partnerships with retailers, in-app advertisements.  
+- **Operational Strategies**: Cloud computing, advanced AI algorithms, and AR integration.  
+
+👉 **[View Business Model Canvas](https://drive.google.com/file/d/1Lle_gWx-rpXFnRkfVtwPnZKENC2CaCb5/view?usp=drive_link)**  
 
 ---
 
-### 📬 Contact
-For questions or feedback, feel free to reach out on LinkedIn: [Ahmed Emad](https://www.linkedin.com/in/ahmed-emad-%F0%9F%87%B5%F0%9F%87%B8-010a52262/)
+## Presentation  
+Dive into our presentation to learn more about:  
+- The problem we aim to solve.  
+- Our unique features and benefits.  
+- Market potential and growth opportunities.  
+
+👉 **[View Presentation](#)**  
+
+---
+
+## Video Explanation  
+Watch our video demo to see Stylek in action and understand its impact.  
+
+👉 **[Watch Video](#)**  
+
+---
+
+## How to Use  
+Follow these steps to get started with Stylek:  
+1. **Create Your Avatar**: Enter your body measurements to generate a personalized avatar.  
+2. **Virtual Try-On**: Browse clothing items and virtually try them on your avatar.  
+3. **Save Your Wardrobe**: Organize and coordinate outfits in your virtual wardrobe.  
+
+---
+
+## Technologies Used  
+- **Programming Languages**: Kotlin, Swift  
+- **Frameworks**: Android Jetpack, ARKit  
+- **APIs**: Firebase, Google ML Kit  
+- **Tools**: Figma (UI/UX), Postman (API Testing)  
+
+---
+
+## Future Plans  
+- Integration with major e-commerce platforms.  
+- Enhanced AR capabilities for real-time try-ons.  
+- Social sharing features for outfit recommendations.  
+
+---
+
+## Contributing  
+We welcome contributions from the community!  
+- Fork the repository.  
+- Create a new branch for your feature or bug fix.  
+- Submit a pull request with detailed information about your changes.  
+
+---
+
+## License  
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
+### Contact  
+For more details, reach out to us at **contact@stylekapp.com**.  
+
