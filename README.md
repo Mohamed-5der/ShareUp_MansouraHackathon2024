@@ -6,9 +6,8 @@
 
 ## Table of Contents  
 2. [Business Model Canvas](https://drive.google.com/file/d/1Lle_gWx-rpXFnRkfVtwPnZKENC2CaCb5/view?usp=drive_link)  
-3. [Presentation](https://drive.google.com/file/d/<YOUR_FILE_ID>/view)  
-4. [Video Explanation](https://drive.google.com/file/d/<YOUR_FILE_ID>/view)  
-5. [How to Use](https://drive.google.com/file/d/<YOUR_FILE_ID>/view)  
+3. [Presentation](https://drive.google.com/file/d/1aXM1rZrz7V74W7NjbqZePVTb8xeAmRQ8/view?usp=drive_link)  
+4. [Video Explanation](https://drive.google.com/file/d/1Jbb_6YLn1t4TnSzP6fLi4_Uv7v5Zu_tz/view?usp=drive_link)  
    
 ---
 
@@ -39,14 +38,14 @@ Dive into our presentation to learn more about:
 - Our unique features and benefits.  
 - Market potential and growth opportunities.  
 
-👉 **[View Presentation](#)**  
+👉 **[View Presentation](https://drive.google.com/file/d/1aXM1rZrz7V74W7NjbqZePVTb8xeAmRQ8/view?usp=drive_link)**  
 
 ---
 
 ## Video Explanation  
 Watch our video demo to see Stylek in action and understand its impact.  
 
-👉 **[Watch Video](#)**  
+👉 **[Watch Video](https://drive.google.com/file/d/1Jbb_6YLn1t4TnSzP6fLi4_Uv7v5Zu_tz/view?usp=drive_link)**  
 
 ---
 
@@ -58,34 +57,6 @@ Follow these steps to get started with Stylek:
 
 ---
 
-## Technologies Used  
-- **Programming Languages**: Kotlin, Swift  
-- **Frameworks**: Android Jetpack, ARKit  
-- **APIs**: Firebase, Google ML Kit  
-- **Tools**: Figma (UI/UX), Postman (API Testing)  
-
----
-
-## Future Plans  
-- Integration with major e-commerce platforms.  
-- Enhanced AR capabilities for real-time try-ons.  
-- Social sharing features for outfit recommendations.  
-
----
-
-## Contributing  
-We welcome contributions from the community!  
-- Fork the repository.  
-- Create a new branch for your feature or bug fix.  
-- Submit a pull request with detailed information about your changes.  
-
----
-
-## License  
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
 ### Contact  
-For more details, reach out to us at **contact@stylekapp.com**.  
+For more details, reach out to us at **khedrkhedr370@gmail.com**.  
 
