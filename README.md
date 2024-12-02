@@ -1,6 +1,6 @@
-# Stylak - Virtual Try-On Shopping App  
+# Stylaik - Virtual Try-On Shopping App  
 
-**Stylak** revolutionizes online shopping by providing personalized avatars for virtual try-ons and a virtual wardrobe for effortless outfit coordination.  
+**Stylik** revolutionizes online shopping by providing personalized avatars for virtual try-ons and a virtual wardrobe for effortless outfit coordination.  
 
 ---
 
