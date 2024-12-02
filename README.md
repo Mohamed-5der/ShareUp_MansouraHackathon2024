@@ -5,7 +5,7 @@
 ---
 
 ## Table of Contents  
-2. [Business Model Canvas](https://drive.google.com/file/d/1Lle_gWx-rpXFnRkfVtwPnZKENC2CaCb5/view?usp=drive_link)  
+2. [Business Model](https://drive.google.com/file/d/1Lle_gWx-rpXFnRkfVtwPnZKENC2CaCb5/view?usp=drive_link)  
 3. [Presentation](https://drive.google.com/file/d/1blVmx_8F-IoDYr6Edzl6o7iDMR8ZEPKT/view?usp=drive_link)  
 4. [Video Explanation](https://drive.google.com/file/d/1Jbb_6YLn1t4TnSzP6fLi4_Uv7v5Zu_tz/view?usp=drive_link)  
    
